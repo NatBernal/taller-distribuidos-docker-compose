@@ -6,6 +6,7 @@ Endpoint POST antes del cambio:
 ![alt text](image-2.png)
 
 Endpoint POST luego del cambio del punto 2, saca error pues no existe conexión con la base de datos por el servidor:
+
 ![alt text](image-1.png)
 
 ## Punto 2
